@@ -37,8 +37,15 @@ tags: week9
 		Often as beginners, we are unsure about how to ask a question. We can seem like we are beating around the bush. This is of course unintentional. One reason this happens is that as beginners, we might not have the vocabulary to ask direct questions. If this is the case, spend time describing your question. It helps to use analogies or showing how you arrived at your question. What actions caused you to ask this question? What were you researching? Being accurate and concise matters even more when you don't know how to ask a question but be generous in using examples and different methods of presenting your question to increase your chances of receiving a helpful response.
 	</p>
 	</article>
+	<article>
+	<h3>Don't Interrupt, Listen</h3>
+	<p>
+		When answering questions, many of us tend to start out with something seemingly irrelevant. Give the person a chance. They may be providing important context to the answer and what you need to hear might be just around the corner. You want them to concentrate on giving you the answer you need right? So give the person a chance to answer your question. If they don't, use the previous answer to guide the audience towards an answer that does answer your question. And if the person is straying from the topic, wisely steer them back to what is relevant.
+	</p>
+	</article>
 </section>
 
 REFERENCES
 
-[Stack Overflow: How do I ask a good question?](http://stackoverflow.com/help/how-to-ask)	
+[Stack Overflow's How do I ask a good question?](http://stackoverflow.com/help/how-to-ask)
+[Lifehack's How To Be Amazingly Good At Asking Questions](http://www.lifehack.org/articles/communication/how-amazingly-good-asking-questions.html)
