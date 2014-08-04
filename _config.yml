@@ -1,0 +1,12 @@
+# Site settings
+title: pc3sq Meets Web Dev
+email: peter.ching@gmail.com
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+baseurl: ""
+url: 
+twitter_username: pc3sq
+github_username:  pc3sq
+
+# Build settings
+markdown: kramdown
+permalink: pretty
